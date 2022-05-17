@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Victor's Website"
 ---
 
 Website for Victor Rabinovich
